@@ -1,8 +1,11 @@
-Now let's create some nginx pods in the policy-demo namespace by using the _kubectl run_ command:
-`
-kubectl run --namespace=policy-demo nginx --replicas=2 --image=nginx`{{execute}}
+Great job!  Now let's create our PHP file where we'll place the code.
 
-And then expose the pods through a service using the _kubectl expose_ command:
+First create the file by typing:
 
-`kubectl expose --namespace=policy-demo deployment nginx --port=80
-`{{execute}}
+`vi sms.php`{{execute}}
+
+Find the code under the **Create and Edit sms.php** section of the SMS quickstart.  Select the entire code block, and copy it.
+
+Now, to switch to edit more, press `i`{{execute}} and then paste the code into the terminal window (CTRL-V or Command-V).
+
+Finally, hit escape and type `:wq`{{execute}} to save your file and exit from the code view.
