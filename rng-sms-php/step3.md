@@ -4,8 +4,8 @@ Look for **Install RingCentral PHP SDK** where you should see two commands (run 
 
 ###Install Composer
 
-`curl -sS https://getcomposer.org/installer | php`{execute}
+`curl -sS https://getcomposer.org/installer | php`{{execute}}
 
 ###Install the RingCentral SDK
 
-`php composer.phar require ringcentral/ringcentral-php`{execute}
+`php composer.phar require ringcentral/ringcentral-php`{{execute}}

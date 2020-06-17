@@ -1,5 +1,5 @@
 {
-    "title": "Mike Test 2",
+    "title": "Mike Test 3",
     "description": "Learn how to deploy Project Calico a Kubernetes cluster",
     "difficulty": "beginner",
     "time": "10-15 minutes",
@@ -44,16 +44,7 @@
             "text": "finish.md"
         },
         "assets": {
-          "host01": [
-            {
-              "file": "credentials.php",
-              "target": "/var/www/html/"
-            },
-            {
-              "file": "sendtext.php",
-              "target": "/var/www/html/"
-            }
-          ]
+          
         }
     },
     "environment": {
