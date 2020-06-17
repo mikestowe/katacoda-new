@@ -39,7 +39,7 @@
 		}
 	},
 	"environment": {
-		"uilayout": "terminal",
+		"uilayout": "editor-terminal",
 		"uisettings": "php",
 		"uimessage1": "\u001b[32mWelcome to the RingCentral SMS for PHP Tutorial.\r\n\u001b[m\r\n"
 	},
