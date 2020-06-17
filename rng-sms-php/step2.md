@@ -4,7 +4,7 @@ Haven't setup your RingCentral account or sandbox app yet?  **[Click here](https
 
 ### Let's get started!
 
-First let's navigate to the `www` folder so we can write our PHP script:
+First let's navigate to the `www` folder so we can write our PHP script in the terminal (bottom right):
 
 `
 cd /var/www/html

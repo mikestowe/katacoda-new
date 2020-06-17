@@ -1,6 +1,6 @@
 Now, visit the PHP SMS quick start at [https://developers.ringcentral.com/guide/messaging/quick-start/php](https://developers.ringcentral.com/guide/messaging/quick-start/php)
 
-Look for **Install RingCentral PHP SDK** where you should see two commands (run each command once):
+Look for **Install RingCentral PHP SDK** where you should see two commands (run each command once in the terminal):
 
 ### Install Composer
 

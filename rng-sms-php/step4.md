@@ -1,13 +1,7 @@
-Great job!  Now let's create our PHP file where we'll place the code.
+Great job!  Now let's start writing our code!
 
-First create the file by typing:
+First, find the code under the **Create and Edit sms.php** section of the SMS quickstart.  Select the entire code block, and copy it.
 
-`vi sms.php`{{execute}}
+Now open sms.php in the editor (top right): `sms.php`{{open}}
 
-Find the code under the **Create and Edit sms.php** section of the SMS quickstart.  Select the entire code block, and copy it.
-
-`sms.php`{{open}}
-
-Now, to switch to edit more, press `i`{{execute}} and then paste the code into the terminal window (CTRL-V or Command-V).
-
-Finally, hit `escape` and type `:wq`{{execute}} to save your file and exit from the code view.
+Finally, paste the code you copied, in it's entirety into the code editor.

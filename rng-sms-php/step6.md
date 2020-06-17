@@ -1,5 +1,5 @@
-Now it's time to test your code!
+Now let's test our code!
 
-Run `php sms.php`{{execute}}
+In the terminal, run `php sms.php`{{execute}}
 
 If successful, you'll receive a text on your phone!

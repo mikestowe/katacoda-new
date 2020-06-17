@@ -1,8 +1,4 @@
-We're almost there!  Now we're going to add in your RingCentral Sandbox credentials.
-
-Once again, open the code editor for the sms.php file by typing `vi sms.php`{{execute}}.  And once again, press `i` to enter edit mode.
-
-Now replace the following brackets with the following details:
+Now in the editor, replace the following brackets with the following details:
 
 | String| Replace with |
 | --- | --- |
@@ -13,6 +9,6 @@ Now replace the following brackets with the following details:
 | &lt;YOUR ACCOUNT PASSWORD&gt; | Your SANDBOX account password |
 | &lt;YOUR EXTENSION, PROBABLY "101"&gt; | 101 |
 
-Now, press `escape` and type `:wq`{{execute}} to save your changes.
+Your changes will be automatically saved.
 
 
