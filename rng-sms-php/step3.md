@@ -1,7 +1,11 @@
-Now, we let's create a [namespace](https://kubernetes.io/docs/concepts/overview/working-with-objects/namespaces/) to launch applications in.
+Now, visit the PHP SMS quick start at [https://developers.ringcentral.com/guide/messaging/quick-start/php](https://developers.ringcentral.com/guide/messaging/quick-start/php)
 
-We can do this using _kubectl create_ followed by _ns_ for namespace, and then the name of our namespace, like so:
+Look for **Install RingCentral PHP SDK** where you should see two commands (run each command once):
 
-`
-kubectl create ns policy-demo
-`{{execute}}
+###Install Composer
+
+`curl -sS https://getcomposer.org/installer | php`{execute}
+
+###Install the RingCentral SDK
+
+`php composer.phar require ringcentral/ringcentral-php`{execute}
