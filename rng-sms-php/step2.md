@@ -1,5 +1,6 @@
-Install Project Calico using _kubectl_:
+First let's navigate to the `www` folder so we can write our PHP script:
 
 `
-kubectl apply -f http://docs.projectcalico.org/v2.1/getting-started/kubernetes/installation/hosted/kubeadm/1.6/calico.yaml
+cd /var/www/html
 `{{execute}}
+
