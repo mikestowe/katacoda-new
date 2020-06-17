@@ -62,6 +62,6 @@
     },
     "backend": {
         "port": 8080,
-        "imageid": "Centos 7"
+        "imageid": "ubuntu:2004"
     }
 }
