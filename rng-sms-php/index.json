@@ -1,6 +1,6 @@
 {
-    "title": "Mike Test 3",
-    "description": "Learn how to deploy Project Calico a Kubernetes cluster",
+    "title": "RingCentral SMS for PHP Demo",
+    "description": "Learn how to send SMS messages with the RingCentral SMS API and PHP",
     "difficulty": "beginner",
     "time": "10-15 minutes",
     "details": {
@@ -24,14 +24,6 @@
             {
                 "title": "Step 5 - Send a Text Message",
                 "text": "step6.md"
-            },
-            {
-                "title": "Step 6 - Allow Access",
-                "text": "step7.md"
-            },
-            {
-                "title": "Step 7 - Go Further",
-                "text": "step8.md"
             }
         ],
         "intro": {
@@ -49,7 +41,7 @@
     },
     "environment": {
         "uilayout": "terminal",
-        "uimessage1": "\u001b[32mYour Interactive Bash Terminal.\r\n\u001b[m\r\n"
+        "uimessage1": "\u001b[32mWelcome to the RingCentral SMS for PHP Tutorial.\r\n\u001b[m\r\n"
     },
     "backend": {
         "port": 8080,
