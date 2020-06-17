@@ -8,4 +8,4 @@ Find the code under the **Create and Edit sms.php** section of the SMS quickstar
 
 Now, to switch to edit more, press `i`{{execute}} and then paste the code into the terminal window (CTRL-V or Command-V).
 
-Finally, hit escape and type `:wq`{{execute}} to save your file and exit from the code view.
+Finally, hit `escape` and type `:wq`{{execute}} to save your file and exit from the code view.

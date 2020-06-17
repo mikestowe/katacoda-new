@@ -13,6 +13,6 @@ Now replace the following brackets with the following details:
 | &lt;YOUR ACCOUNT PASSWORD&gt; | Your SANDBOX account password |
 | &lt;YOUR EXTENSION, PROBABLY "101"&gt; | 101 |
 
-Now, press escape and type `:wq`{{execute}} to save your changes.
+Now, press `escape` and type `:wq`{{execute}} to save your changes.
 
 
