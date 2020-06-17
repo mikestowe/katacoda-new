@@ -1,9 +1,6 @@
-The following steps should be taken care of in the base image. We'll do them manually for now...
+First let's navigate to the `www` folder so we can write our PHP script:
 
 `
-kubeadm init --token=102952.1a7dd4cc8d1f4cc5
+cd /var/www/html
 `{{execute}}
 
-`
-kubeadm join --token=102952.1a7dd4cc8d1f4cc5 172.17.0.16:6443
-`{{execute}}`
