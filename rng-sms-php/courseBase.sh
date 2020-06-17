@@ -1,1 +1,1 @@
-apt install yum; yum install php php-devel;
+yum install apached; yum install php php-devel;
