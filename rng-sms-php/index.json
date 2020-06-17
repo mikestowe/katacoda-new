@@ -47,11 +47,11 @@
           "host01": [
             {
               "file": "pod.yaml",
-              "target": "~/"
+              "target": "/var/www/html/"
             },
             {
               "file": "network-policy.yaml",
-              "target": "~/"
+              "target": "/var/www/html/"
             }
           ]
         }
