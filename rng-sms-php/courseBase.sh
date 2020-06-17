@@ -4,3 +4,4 @@ sudo apt-get install php-curl -y
 
 service apache2 start
 sudo rm /var/www/html/index.html
+touch /var/www/html/sms.php
