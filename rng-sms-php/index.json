@@ -1,54 +1,59 @@
 {
-    "title": "RingCentral SMS for PHP Demo",
-    "description": "Learn how to send SMS messages with the RingCentral SMS API and PHP",
-    "difficulty": "beginner",
-    "time": "15-25 minutes",
-    "details": {
-        "steps": [
-            {
-                "title": "Step 1 - Open Directory",
-                "text": "step2.md"
-            },
-            {
-                "title": "Step 2 - Install RingCentral SDK",
-                "text": "step3.md"
-            },
-            {
-                "title": "Step 3 - Copy and Paste Code",
-                "text": "step4.md"
-            },
-            {
-                "title": "Step 4 - Update Credentials",
-                "text": "step5.md"
-            },
-            {
-                "title": "Step 5 - Send a Text Message",
-                "text": "step6.md"
-            }
-        ],
-        "intro": {
-            "text": "intro.md",
-            "code": "set-env.sh",
-            "courseData": "courseBase.sh",
-            "credits": ""
-        },
-        "finish": {
-            "text": "finish.md"
-        },
-        "assets": {
-          
-        }
-    },
-    "files": [
-        "/var/www/html/sms.php"
-    ],
-    "environment": {
-        "uilayout": "editor-terminal",
-        "uisettings": "php"
-        "uimessage1": "\u001b[32mWelcome to the RingCentral SMS for PHP Tutorial.\r\n\u001b[m\r\n"
-    },
-    "backend": {
-        "port": 8080,
-        "imageid": "ubuntu:2004"
-    }
+	"title": "RingCentral SMS for PHP Demo",
+	"description": "Learn how to send SMS messages with the RingCentral SMS API and PHP",
+	"difficulty": "beginner",
+	"time": "15-25 minutes",
+	"details": {
+		"steps": [{
+				"title": "Step 1 - Open Directory",
+				"text": "step2.md"
+			},
+			{
+				"title": "Step 2 - Install RingCentral SDK",
+				"text": "step3.md"
+			},
+			{
+				"title": "Step 3 - Copy and Paste Code",
+				"text": "step4.md"
+			},
+			{
+				"title": "Step 4 - Update Credentials",
+				"text": "step5.md"
+			},
+			{
+				"title": "Step 5 - Send a Text Message",
+				"text": "step6.md"
+			}
+		],
+		"intro": {
+			"text": "intro.md",
+			"code": "set-env.sh",
+			"courseData": "courseBase.sh",
+			"credits": ""
+		},
+		"finish": {
+			"text": "finish.md"
+		},
+		"assets": {
+
+		}
+	},
+	"assets": {
+		"host01": [{
+			"file": "sms.php",
+			"target": "/var/www/html/"
+		}]
+	},
+	"files": [
+		"/var/www/html/sms.php"
+	],
+	"environment": {
+		"uilayout": "editor-terminal",
+		"uisettings": "php",
+		"uimessage1": "\u001b[32mWelcome to the RingCentral SMS for PHP Tutorial.\r\n\u001b[m\r\n"
+	},
+	"backend": {
+		"port": 8080,
+		"imageid": "ubuntu:2004"
+	}
 }
