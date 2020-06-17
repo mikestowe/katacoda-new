@@ -2,7 +2,7 @@
     "title": "RingCentral SMS for PHP Demo",
     "description": "Learn how to send SMS messages with the RingCentral SMS API and PHP",
     "difficulty": "beginner",
-    "time": "10-15 minutes",
+    "time": "15-25 minutes",
     "details": {
         "steps": [
             {
